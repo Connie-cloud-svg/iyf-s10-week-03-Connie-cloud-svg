@@ -26,13 +26,13 @@ This project covers command line essentials and Git workflow.
 ```
 iyf-s10-week-03-yourusername/
 ├── docs/
-│   ├── index.html
 │   ├── about.html
-│   ├── projects.html
-│   ├── contact.html
+│   ├── backup.html
+│   ├── contacts.html
+│   ├── index.html
+|   ├── projects.html
 │   ├── css/
 │   │   └── styles.css
-│   └── images/
 ├── src/
 ├── images/
 ├── terminal-log.md
