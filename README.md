@@ -25,20 +25,16 @@ This project covers command line essentials and Git workflow.
 
 ```
 iyf-s10-week-03-yourusername/
-├── src/
+├── docs/
 │   ├── index.html
 │   ├── about.html
 │   ├── projects.html
 │   ├── contact.html
 │   ├── css/
 │   │   └── styles.css
-│   ├── js/
-│   │   └── main.js
 │   └── images/
-├── docs/
-├── tests/
-├── scripts/
-│   └── new-project.sh
+├── src/
+├── images/
 ├── terminal-log.md
 ├── .gitignore
 └── README.md
