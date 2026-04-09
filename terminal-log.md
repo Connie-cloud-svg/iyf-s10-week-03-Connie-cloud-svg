@@ -4,7 +4,7 @@
 
 ### Commands Used:
 
-1. pwd - showed current directory
+1. pwd - showed current directory.
 2. ls - listed contents of directory
 3. cd ~/Documents - navigated to Documents folder
 4. cd .. - went back one directory
